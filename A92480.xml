@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act concerning the militia, Edinburgh, the 16 of November, 1669</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92480</idno><idno type="EEBO-CITATION">38875503</idno>
+  <idno type="VID">152356</idno>
+  <idno type="EEBO-PROQUEST">2240924532</idno>
+  
+            <idno type="STC">Wing S1070A</idno>
+            <idno type="STC">ESTC R42636</idno>
+            <idno type="OCLC">38875503</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2294:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act concerning the militia, Edinburgh, the 16 of November, 1669</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152356:1"/>
+            <p>ACT Concerning the MILITIA. <hi>Edinburgh,</hi> the 16. of <hi>November,</hi> 1669.</p>
+            <figure>
+               <figDesc>arms of Charles II</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's most Excellent MAjESTY, 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:152356:2"/>
+            <pb n="3" facs="tcp:152356:2"/>
+            <head>ACT Concerning the <hi>MILITIA.</hi>
+            </head>
+            <head type="sub">
+               <hi>Edinburgh, the</hi> 16. of <hi>November,</hi> 1669.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as by divers ancient Laws and Acts of Par<g ref="char:EOLhyphen"/>liament, made in the Reigns of His <hi>Majesties</hi> Royal Ancestors, it is Statute and Ordained, That Weapon-showings be holden in ilk Shire several times in the year, at which the Lieges are appointed to be har<g ref="char:EOLhyphen"/>nished and armed, according to their qualities and degrees; as at length is specified in these Acts. And it being declared by the fifth Act of the first Session of His <hi>Majesties</hi> late Parliament, That it is His <hi>Majesties</hi> Prerogative-Royal and un<g ref="char:EOLhyphen"/>doubted Right, to have the power of raising in Armes the Subjects of this Kingdom, and of the commanding, ordering and disbanding, or otherwayes disposing thereof as He shall think fit. As also, the Estates of Parliament of this Kingdom, in recognisance of His <hi>Majesties</hi> Royal Prerogative foresaid, and in a further acknowledge<g ref="char:EOLhyphen"/>ment of their duty, Having, by the twenty fifth Act of the last Session of the foresaid Parliament, made offer to His <hi>Majesty</hi> of twenty thou<g ref="char:EOLhyphen"/>sand Footmen and two thousand Horsemen, sufficiently armed and furnished with fourty dayes provision, to be raised from the several Shires of the Kingdom, according to the proportions exprest in that Act, to be in readiness as they shall be called for by His <hi>Majesty,</hi> to march to any part of His Dominions of <hi>Scotland, England</hi> or <hi>Ireland,</hi> for any service wherein His <hi>Majesties</hi> Honour, Authority or Greatness may be concerned. And His <hi>Majesty,</hi> finding it expedient that the foresaid number of Foot and Horse should be modelled and trained in military discipline, to the effect they might be in greater readiness and fitness for His <hi>Majesties</hi> Service when they should be called for, Hav<g ref="char:EOLhyphen"/>ing, by advice of His Privy Council, constituted and settled a Militia of Horse and Foot in many Shires of the Kingdom, according to the proportions mentioned in the foresaid Act; and in some other Shires a Militia of Horse only; having thought fit in this exigent, for im<g ref="char:EOLhyphen"/>portant reasons, to change their Foot into a proportion of Horse, sute<g ref="char:EOLhyphen"/>able to the charge of their proportion of Foot: And having nominated and appointed the Collonels and Lieutenant-Collonels of Foot, and Cap<g ref="char:EOLhyphen"/>tains of Horse; And the Lords of Privy Council having, by His <hi>Majesties</hi> Order and Warrand, appointed Commissioners of the Militia in the several Shires, ordered the election of the inferiour Officers, appointed particular dayes of Rendezvous, the way of listing of Foot-souldiers, ordered fit allowances to be given to the Foot and Horsemen every day of the Rendezvous; That Collours, Standarts, Drums and Trum<g ref="char:EOLhyphen"/>pets be provided at the charge of the Shire; and having given several other Orders and Instructions concerning the ordering and disposing of the Militia, The Estates of Parliament do in all duty acknowledge
+<pb n="4" facs="tcp:152356:3"/>His <hi>Majesties</hi> singular Wisdom and tender Care of this His ancient Kingdom, in constituting and settling the foresaid Militia. Likeas, His <hi>Majesty,</hi> with advice and consent of His Estates of Parliament, doth Ratifie and Approve the constitution and model of the Militia, as the same is established by His <hi>Majesty</hi> with advice of his Privy Council: And particularly, their appointing dayes for Rendezvous, ordering fit allowances to be given to the Foot and Horsemen the saids dayes of their Rendezvous; And all Acts, Commissions, Orders and Instructiones past and emitted by the Council concerning the Militia, and their whole proceedings relating thereto. And Statutes and Or<g ref="char:EOLhyphen"/>daines, that in all time coming there be allowed to each Footman six shillings Scots, and to each Horseman eighteen shillings Scots, every day of the Rendezvous, to be payed be the Heretors; And that the said six shillings to be payed to the Footmen, be refounded to the Here<g ref="char:EOLhyphen"/>tors by the men-tennents and servants for whom the Footmen are put out, and who are not listed in the Militia. And also Statutes and Or<g ref="char:EOLhyphen"/>daines, that the Rendezvous be punctually keeped, that Horse and Foot be duely outreiked and sufficiently armed, that Fractiones with their proportions of the price of the Collours, Drums, Standarts, and Trumpets be timeously payed. Likeas, His <hi>Majesty,</hi> with advice fore<g ref="char:EOLhyphen"/>said, doeth give power and warrand to the Commissioners of the Mili<g ref="char:EOLhyphen"/>tia in the respective Shires, to fine parties for the Souldiers absence from the Rendezvous, not exceeding six pounds Scots for the Horse<g ref="char:EOLhyphen"/>man, and two pounds Scots for the Footeman absent ilk day of the Rendezvous; And likewise, such as shall be deficient in the outreik of Horse or Foot, or in payment of the fractions thereof, or of the proportions of Collours, Drums, Standarts and Trumpets, or of the pay allowed by this present Act to the Horsemen or Footmen, the men-tennets and servants for whom the Footmen are put out, being alwayes lyable to relieve the respective Heretors of the payment of the fines aforesaid, in so far as concerns the deficiency in outreik of Foot, or payment of the fractions thereof, or absents of the Footmen from the dayes of Rendezvous. And to the effect, more ready obedience may be given to this present Act and Ordinance, His <hi>Majesty,</hi> with ad<g ref="char:EOLhyphen"/>vice foresaid (without derogation from any power already given by the Instructions or Acts of Council) doth authorize and impower the Commissioners of the Militia in the respective Shires, or any three of them (two of the <hi>quorum</hi> not being Officers) after tryal taken that parties have been absent from the Rendezvous, or deficient in the outreiks and payments foresaid; to give order and warrand to any one of the Serjants of Foot of the respective Companies, or Corporals of Horse to be named by the saids Commissioners, to poind and destreinzie the readiest Goods and Geer of these absent or deficient, wherever the same may be found, apprise and make sale thereof towards the pay<g ref="char:EOLhyphen"/>ment of the sums specified in the said Warrand, and of the charges and expenses of the poinding and apprising; these charges alwayes not exceeding als much more as the sums for which the poinding shall be used. Likeas, His <hi>Majesty,</hi> with advice foresaid, constitutes the said person, to whom the foresaid Order shall be directed, Sheriff in that part; with power to him, by vertue of that Order, to poind the Goods
+<pb n="5" facs="tcp:152356:3"/>without necessity of carrying the same to the Paroch-church or Mercat-cross of the head Burgh of the Shire to be apprised; and to do and act in the execution of the said Order, sicklike as a Messenger at Armes may do by the Law, in execution of Letters of poinding and apprising given under His <hi>Majesties</hi> Signet: Providing alwayes, that the goods poinded be valued and apprised by two honest sworn men, whose oathes the said Sheriff in that part is authorized to take to that effect; And declares, That it shall be leisome to the party from whom the goods shall be poinded, to redeem the same within six dayes after the poinding, by payment of the sums, for which the poinding shall be used, expenses of the poinding foresaid, and twelve shilling Scots each day during the not redemption. And in case the party do not redeem the goods poinded within the space foresaid, Declares that it shall be lawfull to the said Sheriff in that part, to retain the goods or sell the same, with deducti<g ref="char:EOLhyphen"/>on of the third of the sum to which they were apprised, He al<g ref="char:EOLhyphen"/>wayes being countable for the price thereof to the Commissio<g ref="char:EOLhyphen"/>ners of the Militia, who are to see the party, from whom the Goods were poinded, satisfied of the <hi>superplus</hi> of the price (if any be) the sum for which the poinding was used, expenses foresaids of the poind<g ref="char:EOLhyphen"/>ing, third part of the value to which the Goods were apprised, with twelve shilling Scots ilk day during the space that the party had power to redeem, being alwayes deduced; and declares the said Warrand, being signed by three of the saids Commissioners (one of them only being an Officer) to have the force and strength of an Decreet; and that there is no necessity of any Precept or Charge to follow thereon: And that the poinding and apprising so used, by vertue of the said Warrand, is and shall be als lawful and valid, as if all the solemnities requisite and usual in poindings were observed; whereanent His <hi>Majesty,</hi> with advice foresaid, doth dispense in this case of the Militia. And it is declared, that these who are not sufficiently armed or mounted at the Rendezvous, shall be holden as absent therefrom, and shall be fined and poinded accordingly in manner foresaid. And for preveen<g ref="char:EOLhyphen"/>ing debates that may arise the time of mustering, it is Declared, that Lieutenants and Cornets of Horse shall be reckoned of the number of Horsemen, appointed to be put out in the respective Shires; But prejudice alwayes to any of the saids Officers, to claim and sute pay<g ref="char:EOLhyphen"/>ment of Fractions, if they be Leaders of Horse. As also, His <hi>Majesty,</hi> with advice foresaid, doth authorize and impower the Lords of His Privy Council from time to time, to appoint dayes of Rendez<g ref="char:EOLhyphen"/>vous, and to give such further orders as shall be requisite for the full establishment of the Militia in every particular thereof; and to call for an account from the several Shires of their procedure and diligence in settling the same. And commands and requires all His <hi>Majesties</hi> Sub<g ref="char:EOLhyphen"/>jects of whatsoever degree or quality, to give due and ready obedience to all such orders and directions as they shall receive from His <hi>Majesties</hi> Privy Council, relating to the Militia, under the pains and certifications contained in any Acts made, or to be made by them thereanent.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's most Excellent MAjESTY, 1669.</p>
+            <pb facs="tcp:152356:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
